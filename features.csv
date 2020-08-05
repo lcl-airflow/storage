@@ -1,0 +1,856 @@
+city,airline_sentiment,city_name
+169,2,New York City
+50,0,Chelsea
+86,1,El Segundo
+86,0,El Segundo
+102,2,Frisco
+68,1,Culver City
+2,1,Aliso Viejo
+246,0,Springfield Gardens
+190,2,Paradise
+226,1,San Francisco
+71,0,Dania Beach
+86,2,El Segundo
+40,0,Calgary
+246,1,Springfield Gardens
+86,2,El Segundo
+268,2,"Washington, D.C."
+70,2,Dallas
+70,0,Dallas
+71,0,Dania Beach
+70,2,Dallas
+107,1,Gladstone
+226,2,San Francisco
+86,1,El Segundo
+200,0,Port Richmond
+216,1,Ronkonkoma
+277,2,Westford
+226,1,San Francisco
+247,1,Summerlin South
+263,0,Venustiano Carranza
+34,2,Brighton
+287,0,Wolverhampton
+1,1,Aldine
+1,0,Aldine
+1,0,Aldine
+1,0,Aldine
+1,0,Aldine
+1,0,Aldine
+1,0,Aldine
+133,0,Kenner
+133,0,Kenner
+133,0,Kenner
+133,0,Kenner
+133,0,Kenner
+133,0,Kenner
+133,0,Kenner
+48,2,Cary
+24,0,Birmingham
+184,0,Orchards
+220,2,Råsunda
+174,0,North Charleston
+21,1,Bensenville
+112,1,Hale
+21,0,Bensenville
+226,1,San Francisco
+21,0,Bensenville
+51,0,Chicago
+48,1,Cary
+86,0,El Segundo
+171,0,Niles
+34,0,Brighton
+179,2,Oak Hill
+21,0,Bensenville
+179,2,Oak Hill
+87,0,Elizabeth
+22,1,Bergeijk
+71,0,Dania Beach
+170,0,Newark
+71,0,Dania Beach
+170,0,Newark
+286,0,Winter Park
+170,0,Newark
+34,0,Brighton
+34,0,Brighton
+187,0,Paderborn
+18,0,Bellaire
+87,0,Elizabeth
+198,0,Polanco
+18,0,Bellaire
+21,0,Bensenville
+100,0,Franklin Park
+22,2,Bergeijk
+100,0,Franklin Park
+21,0,Bensenville
+1,0,Aldine
+201,0,Portland
+100,0,Franklin Park
+1,0,Aldine
+21,0,Bensenville
+31,1,Bozeman
+21,0,Bensenville
+82,0,East Point
+170,1,Newark
+161,0,Montrose
+289,2,Xiuying
+14,0,Aurora
+190,0,Paradise
+84,1,Egypt Lake-Leto
+31,0,Bozeman
+31,0,Bozeman
+31,0,Bozeman
+31,0,Bozeman
+1,0,Aldine
+114,1,Hampton Park
+114,1,Hampton Park
+86,0,El Segundo
+1,0,Aldine
+190,0,Paradise
+51,2,Chicago
+21,2,Bensenville
+240,1,Skokie
+22,2,Bergeijk
+26,0,Boise
+179,2,Oak Hill
+26,2,Boise
+34,0,Brighton
+170,0,Newark
+232,0,SeaTac
+232,0,SeaTac
+34,0,Brighton
+41,1,Camberwell
+34,0,Brighton
+34,0,Brighton
+34,0,Brighton
+181,0,Oakland
+1,0,Aldine
+1,0,Aldine
+21,0,Bensenville
+21,2,Bensenville
+36,2,Brownsville
+104,0,Gahanna
+104,0,Gahanna
+179,0,Oak Hill
+1,1,Aldine
+1,0,Aldine
+170,0,Newark
+104,0,Gahanna
+258,1,Tung Chung
+158,0,Millbrae
+86,0,El Segundo
+212,0,Rock Hill
+158,2,Millbrae
+122,1,Honolulu
+179,0,Oak Hill
+179,0,Oak Hill
+158,0,Millbrae
+158,0,Millbrae
+179,0,Oak Hill
+153,0,Matthews
+209,0,Rexburg
+34,0,Brighton
+71,2,Dania Beach
+212,0,Rock Hill
+212,0,Rock Hill
+198,2,Polanco
+20,0,Benito Juarez
+158,0,Millbrae
+158,0,Millbrae
+130,0,Jersey City
+203,0,Punta Cana
+179,0,Oak Hill
+237,1,Shanghai
+189,0,Palm Springs
+189,0,Palm Springs
+146,0,Long Island City
+172,0,North Atlanta
+172,0,North Atlanta
+168,0,Nassau
+50,1,Chelsea
+73,2,Denver
+203,0,Punta Cana
+203,0,Punta Cana
+203,0,Punta Cana
+203,1,Punta Cana
+219,0,Rutland
+124,0,Houston
+100,2,Franklin Park
+21,2,Bensenville
+21,2,Bensenville
+218,0,Rubidoux
+86,2,El Segundo
+51,2,Chicago
+51,0,Chicago
+51,0,Chicago
+58,0,Commerce City
+14,0,Aurora
+14,0,Aurora
+14,0,Aurora
+51,0,Chicago
+14,0,Aurora
+169,0,New York City
+1,0,Aldine
+169,0,New York City
+10,0,Ashland
+223,2,San Bruno
+1,0,Aldine
+246,1,Springfield Gardens
+285,2,Winnipeg
+1,0,Aldine
+100,0,Franklin Park
+226,0,San Francisco
+82,2,East Point
+82,0,East Point
+265,0,Waltham
+89,2,Etobicoke
+184,2,Orchards
+137,0,Kissimmee
+77,1,Dubai
+184,0,Orchards
+158,0,Millbrae
+77,1,Dubai
+77,0,Dubai
+59,1,Conroe
+77,0,Dubai
+1,2,Aldine
+158,0,Millbrae
+206,0,Rahway
+226,1,San Francisco
+158,0,Millbrae
+222,2,Salt Lake City
+259,0,Union
+276,1,West Valley City
+189,2,Palm Springs
+226,0,San Francisco
+170,1,Newark
+87,0,Elizabeth
+170,0,Newark
+158,1,Millbrae
+170,0,Newark
+158,0,Millbrae
+158,0,Millbrae
+87,0,Elizabeth
+23,1,Beverly Hills
+148,1,Louisville
+179,0,Oak Hill
+128,2,Jackson Heights
+223,0,San Bruno
+104,0,Gahanna
+143,0,Lexington
+143,0,Lexington
+104,0,Gahanna
+227,0,San Luis Obispo
+227,0,San Luis Obispo
+169,2,New York City
+158,0,Millbrae
+158,0,Millbrae
+94,2,Farragut
+207,1,Rancho Cucamonga
+195,1,Phra Pradaeng
+207,0,Rancho Cucamonga
+207,0,Rancho Cucamonga
+239,1,Singapore
+235,0,Security-Widefield
+248,1,Sydney
+21,0,Bensenville
+49,1,Charlotte
+116,1,Harrison
+1,2,Aldine
+29,0,Boulder
+21,1,Bensenville
+194,0,Phoenix
+179,0,Oak Hill
+21,0,Bensenville
+34,0,Brighton
+1,0,Aldine
+158,1,Millbrae
+133,0,Kenner
+188,0,Palm Desert
+32,0,Brentwood
+188,0,Palm Desert
+188,0,Palm Desert
+272,0,West Orange
+188,0,Palm Desert
+158,0,Millbrae
+188,0,Palm Desert
+256,0,Town 'n' Country
+188,0,Palm Desert
+188,0,Palm Desert
+242,2,South Jordan
+190,0,Paradise
+190,0,Paradise
+218,2,Rubidoux
+108,0,Glen Avon
+21,0,Bensenville
+267,0,Washington Heights
+140,2,Leawood
+240,1,Skokie
+170,0,Newark
+170,0,Newark
+158,0,Millbrae
+158,0,Millbrae
+262,0,Vancouver
+34,1,Brighton
+34,1,Brighton
+27,0,Bonita Springs
+34,2,Brighton
+170,0,Newark
+170,0,Newark
+4,2,American Fork
+158,0,Millbrae
+69,1,Cypress
+268,0,"Washington, D.C."
+185,0,Ossining
+185,0,Ossining
+185,2,Ossining
+53,0,Cicero
+98,0,Forest Hills
+166,0,Napa
+274,0,West Raleigh
+50,2,Chelsea
+76,0,Drexel Hill
+144,1,Liberty
+158,2,Millbrae
+158,0,Millbrae
+155,1,Mentor
+243,2,Sparks
+225,0,San Diego
+152,0,Marlborough
+225,0,San Diego
+253,2,Tempe Junction
+82,0,East Point
+90,2,Euless
+230,2,Santa Monica
+222,2,Salt Lake City
+53,0,Cicero
+149,2,Lubbock
+124,2,Houston
+173,1,North Canton
+225,0,San Diego
+173,0,North Canton
+257,2,Troy
+257,1,Troy
+76,1,Drexel Hill
+15,0,Austin
+253,2,Tempe Junction
+0,0,Addison
+266,0,Warwick
+176,2,North Little Rock
+38,1,Burbank
+268,0,"Washington, D.C."
+66,2,Cranberry Township
+167,0,Nashville
+92,0,Fairhaven
+76,0,Drexel Hill
+73,0,Denver
+95,0,Ferndale
+180,1,Oak Ridge
+95,0,Ferndale
+95,0,Ferndale
+95,0,Ferndale
+95,0,Ferndale
+95,1,Ferndale
+215,0,Romulus
+95,0,Ferndale
+95,0,Ferndale
+180,0,Oak Ridge
+244,0,Spring Valley
+95,0,Ferndale
+95,0,Ferndale
+95,1,Ferndale
+95,0,Ferndale
+124,1,Houston
+224,0,San Carlos Park
+191,2,Parole
+15,1,Austin
+11,0,Ashtabula
+228,2,Santa Ana
+15,2,Austin
+128,2,Jackson Heights
+65,0,Council Bluffs
+65,0,Council Bluffs
+106,1,Germantown
+117,0,Henderson
+142,1,Levittown
+53,2,Cicero
+186,2,Overland
+127,0,Islip
+284,0,Windsor
+284,0,Windsor
+86,0,El Segundo
+175,0,North Chicago
+102,0,Frisco
+71,1,Dania Beach
+63,2,Costa Mesa
+3,0,Allen
+128,0,Jackson Heights
+226,0,San Francisco
+190,0,Paradise
+123,1,Hope Mills
+70,0,Dallas
+225,1,San Diego
+107,0,Gladstone
+32,2,Brentwood
+167,0,Nashville
+15,0,Austin
+207,2,Rancho Cucamonga
+16,1,Baltimore
+282,1,Williamsport
+15,1,Austin
+133,0,Kenner
+107,0,Gladstone
+34,0,Brighton
+102,2,Frisco
+154,2,Meadow Woods
+0,2,Addison
+86,0,El Segundo
+86,0,El Segundo
+95,0,Ferndale
+88,2,Elizabeth City
+124,2,Houston
+74,0,Dickson
+251,1,Tampa
+210,1,Richfield
+7,2,Annapolis
+118,1,Herriman
+37,2,Brushy Creek
+167,0,Nashville
+61,0,Coral Gables
+166,0,Napa
+269,1,Waterford
+167,0,Nashville
+170,0,Newark
+196,2,Plainfield
+167,2,Nashville
+101,0,Friendswood
+253,0,Tempe Junction
+167,1,Nashville
+151,0,Mariners Harbor
+151,0,Mariners Harbor
+151,0,Mariners Harbor
+151,0,Mariners Harbor
+151,0,Mariners Harbor
+12,2,Atascocita
+138,2,La Vergne
+186,0,Overland
+30,2,Bowie
+78,2,Durham
+131,0,Johnston
+273,0,West Pensacola
+221,1,Salisbury
+44,1,Cancún
+169,1,New York City
+230,2,Santa Monica
+230,1,Santa Monica
+230,2,Santa Monica
+50,0,Chelsea
+145,1,Long Beach
+28,1,Boston
+204,1,Queens Village
+204,0,Queens Village
+54,2,City of Milford (balance)
+43,0,Canary Wharf
+236,0,Seven Oaks
+152,1,Marlborough
+19,2,Belvedere Park
+28,2,Boston
+25,2,Boca Raton
+280,2,White Plains
+246,1,Springfield Gardens
+280,0,White Plains
+246,1,Springfield Gardens
+246,0,Springfield Gardens
+71,0,Dania Beach
+33,1,Bridgetown
+33,0,Bridgetown
+126,2,Huntington Beach
+246,1,Springfield Gardens
+246,0,Springfield Gardens
+50,0,Chelsea
+270,2,Wayne
+192,0,Parsippany
+162,0,Morristown
+128,1,Jackson Heights
+246,0,Springfield Gardens
+246,0,Springfield Gardens
+79,1,Dyker Heights
+79,0,Dyker Heights
+79,0,Dyker Heights
+79,0,Dyker Heights
+281,1,Whitestone
+246,0,Springfield Gardens
+288,0,Woodstock
+56,0,College Point
+103,2,Funza
+225,0,San Diego
+246,0,Springfield Gardens
+85,2,El Dorado Hills
+246,0,Springfield Gardens
+246,0,Springfield Gardens
+275,2,West Sacramento
+168,1,Nassau
+72,2,Decatur
+246,0,Springfield Gardens
+246,0,Springfield Gardens
+50,1,Chelsea
+46,0,Carolina
+81,2,East Massapequa
+199,2,Port Chester
+246,0,Springfield Gardens
+154,2,Meadow Woods
+64,0,Cottonwood Heights
+64,0,Cottonwood Heights
+264,1,Wakefield
+264,0,Wakefield
+146,2,Long Island City
+146,1,Long Island City
+205,1,Queensbury
+145,1,Long Beach
+71,2,Dania Beach
+246,0,Springfield Gardens
+246,0,Springfield Gardens
+246,0,Springfield Gardens
+246,0,Springfield Gardens
+229,1,Santa Clara
+268,1,"Washington, D.C."
+178,2,North Salt Lake
+246,1,Springfield Gardens
+246,0,Springfield Gardens
+246,0,Springfield Gardens
+246,0,Springfield Gardens
+246,0,Springfield Gardens
+246,0,Springfield Gardens
+246,2,Springfield Gardens
+246,0,Springfield Gardens
+246,0,Springfield Gardens
+246,1,Springfield Gardens
+246,0,Springfield Gardens
+246,0,Springfield Gardens
+50,2,Chelsea
+50,0,Chelsea
+35,0,Brooklyn
+268,0,"Washington, D.C."
+5,0,Anaheim
+5,1,Anaheim
+246,2,Springfield Gardens
+246,0,Springfield Gardens
+246,0,Springfield Gardens
+241,0,Somerset
+241,0,Somerset
+241,1,Somerset
+246,0,Springfield Gardens
+241,0,Somerset
+246,0,Springfield Gardens
+128,0,Jackson Heights
+147,1,Longview
+128,0,Jackson Heights
+278,0,Wethersfield
+154,2,Meadow Woods
+254,2,The Valley
+254,2,The Valley
+254,2,The Valley
+225,0,San Diego
+45,0,Candelaria
+45,0,Candelaria
+208,0,Rancho Penasquitos
+50,0,Chelsea
+246,1,Springfield Gardens
+246,0,Springfield Gardens
+147,1,Longview
+147,1,Longview
+234,2,Secaucus
+231,2,Savannah
+49,0,Charlotte
+253,2,Tempe Junction
+170,0,Newark
+1,0,Aldine
+69,0,Cypress
+49,2,Charlotte
+202,1,Potomac
+76,1,Drexel Hill
+159,0,Milton
+253,0,Tempe Junction
+253,0,Tempe Junction
+253,0,Tempe Junction
+49,0,Charlotte
+76,0,Drexel Hill
+76,0,Drexel Hill
+76,0,Drexel Hill
+82,1,East Point
+44,0,Cancún
+261,0,Upper Saint Clair
+190,0,Paradise
+255,0,Torrance
+268,0,"Washington, D.C."
+119,0,Hilton Head
+165,0,Mountain Brook
+76,0,Drexel Hill
+76,0,Drexel Hill
+44,0,Cancún
+76,0,Drexel Hill
+76,0,Drexel Hill
+50,0,Chelsea
+75,0,Dover
+75,0,Dover
+75,0,Dover
+75,0,Dover
+271,0,West Albany
+163,1,Morrisville
+163,0,Morrisville
+24,1,Birmingham
+57,0,Commack
+290,0,Zionsville
+226,0,San Francisco
+49,0,Charlotte
+49,0,Charlotte
+283,0,Willow Grove
+76,0,Drexel Hill
+52,0,Chillum
+197,0,Pleasantville
+141,0,Lebanon
+156,0,Miami Beach
+156,0,Miami Beach
+97,0,Florence
+8,0,Arbutus
+76,0,Drexel Hill
+83,0,East York
+217,0,Roswell
+76,0,Drexel Hill
+76,0,Drexel Hill
+76,0,Drexel Hill
+283,0,Willow Grove
+76,0,Drexel Hill
+49,0,Charlotte
+49,0,Charlotte
+283,0,Willow Grove
+55,0,Cleveland
+253,0,Tempe Junction
+55,0,Cleveland
+266,2,Warwick
+55,0,Cleveland
+55,0,Cleveland
+193,2,Philadelphia
+193,0,Philadelphia
+49,0,Charlotte
+260,0,Universal City
+268,0,"Washington, D.C."
+268,0,"Washington, D.C."
+193,1,Philadelphia
+182,0,Okolona
+139,1,Lake in the Hills
+139,0,Lake in the Hills
+49,0,Charlotte
+260,0,Universal City
+56,0,College Point
+9,0,Ashford
+49,0,Charlotte
+268,0,"Washington, D.C."
+268,0,"Washington, D.C."
+76,0,Drexel Hill
+76,0,Drexel Hill
+133,0,Kenner
+67,1,Cudahy
+67,2,Cudahy
+133,0,Kenner
+133,0,Kenner
+133,0,Kenner
+120,0,Hoboken
+49,2,Charlotte
+183,1,Orange
+49,2,Charlotte
+49,0,Charlotte
+49,0,Charlotte
+49,0,Charlotte
+49,2,Charlotte
+49,2,Charlotte
+49,0,Charlotte
+135,0,Kent
+135,0,Kent
+135,2,Kent
+250,0,Tallahassee
+250,0,Tallahassee
+49,0,Charlotte
+80,0,East Lansing
+80,0,East Lansing
+49,0,Charlotte
+190,0,Paradise
+49,0,Charlotte
+49,0,Charlotte
+256,2,Town 'n' Country
+177,0,North Miami
+49,0,Charlotte
+268,0,"Washington, D.C."
+268,0,"Washington, D.C."
+190,2,Paradise
+246,0,Springfield Gardens
+49,0,Charlotte
+190,2,Paradise
+49,0,Charlotte
+226,2,San Francisco
+113,1,Haltom City
+39,0,Bushwick
+39,0,Bushwick
+39,0,Bushwick
+39,0,Bushwick
+230,0,Santa Monica
+49,0,Charlotte
+226,2,San Francisco
+113,1,Haltom City
+39,0,Bushwick
+39,0,Bushwick
+39,0,Bushwick
+39,0,Bushwick
+111,0,Grapevine
+84,1,Egypt Lake-Leto
+150,0,Manhattan
+84,0,Egypt Lake-Leto
+280,2,White Plains
+84,0,Egypt Lake-Leto
+107,0,Gladstone
+107,1,Gladstone
+189,2,Palm Springs
+107,0,Gladstone
+279,0,Weymouth
+213,0,Rockland
+15,0,Austin
+60,1,Coppell
+60,0,Coppell
+60,0,Coppell
+91,0,Evanston
+111,2,Grapevine
+150,0,Manhattan
+240,0,Skokie
+128,0,Jackson Heights
+193,1,Philadelphia
+60,2,Coppell
+21,2,Bensenville
+60,0,Coppell
+233,0,Seattle
+100,0,Franklin Park
+93,0,Fairview Park
+93,0,Fairview Park
+93,0,Fairview Park
+36,0,Brownsville
+93,0,Fairview Park
+214,0,Rogers
+163,0,Morrisville
+93,0,Fairview Park
+21,0,Bensenville
+106,0,Germantown
+106,0,Germantown
+106,0,Germantown
+106,0,Germantown
+106,0,Germantown
+106,0,Germantown
+21,0,Bensenville
+110,2,Golden
+157,0,Midland
+111,0,Grapevine
+230,1,Santa Monica
+63,2,Costa Mesa
+132,0,Kannapolis
+60,0,Coppell
+230,0,Santa Monica
+87,0,Elizabeth
+110,0,Golden
+245,1,Springfield
+230,0,Santa Monica
+253,0,Tempe Junction
+250,1,Tallahassee
+245,1,Springfield
+121,0,Hollywood
+21,2,Bensenville
+238,0,Shrewsbury
+238,0,Shrewsbury
+99,0,Four Corners
+238,0,Shrewsbury
+70,0,Dallas
+110,0,Golden
+47,1,Cartagena
+121,0,Hollywood
+121,0,Hollywood
+238,0,Shrewsbury
+194,0,Phoenix
+161,0,Montrose
+21,0,Bensenville
+226,0,San Francisco
+161,0,Montrose
+161,0,Montrose
+161,0,Montrose
+161,1,Montrose
+161,0,Montrose
+160,0,Minneapolis
+86,0,El Segundo
+86,0,El Segundo
+86,0,El Segundo
+17,0,Battersea
+106,0,Germantown
+86,0,El Segundo
+70,0,Dallas
+70,0,Dallas
+17,0,Battersea
+194,0,Phoenix
+215,0,Romulus
+233,0,Seattle
+156,0,Miami Beach
+62,1,Corpus Christi
+62,0,Corpus Christi
+17,0,Battersea
+42,2,Canarsie
+36,1,Brownsville
+252,0,Tempe
+109,1,Glendale
+49,2,Charlotte
+134,0,Kensington
+136,2,Key West
+86,2,El Segundo
+12,0,Atascocita
+83,0,East York
+122,0,Honolulu
+36,0,Brownsville
+129,1,Jacksonville Beach
+111,0,Grapevine
+111,0,Grapevine
+15,2,Austin
+34,0,Brighton
+246,0,Springfield Gardens
+36,0,Brownsville
+49,1,Charlotte
+111,0,Grapevine
+21,2,Bensenville
+156,0,Miami Beach
+156,0,Miami Beach
+156,0,Miami Beach
+49,0,Charlotte
+86,2,El Segundo
+230,0,Santa Monica
+49,0,Charlotte
+230,0,Santa Monica
+246,0,Springfield Gardens
+246,0,Springfield Gardens
+49,0,Charlotte
+60,0,Coppell
+268,0,"Washington, D.C."
+164,0,Mount Vernon
+246,0,Springfield Gardens
+163,2,Morrisville
+125,0,Howard Beach
+105,0,Garland
+96,2,Flagami
+6,0,Angeles City
+268,0,"Washington, D.C."
+249,0,Tacoma
+246,2,Springfield Gardens
+105,0,Garland
+87,2,Elizabeth
+13,2,Augusta
+115,0,Harlem
+161,0,Montrose
+161,0,Montrose
+82,0,East Point
+111,0,Grapevine
+86,0,El Segundo
+211,0,Rio Rancho
+164,0,Mount Vernon
+111,0,Grapevine
+246,2,Springfield Gardens
